@@ -6,7 +6,7 @@
    "telegram",
    "FiletoLinkBot"
   ],
- "repository": "https://github.com/TGExplore/TG-Files-to-Link",
+ "repository": "https://github.com/clashdon/TG-Files-to-Link",
  "env": {
    "TG_API_ID": {
       "description": "Your Telegram API ID. Get this value from my.telegram.org!",
